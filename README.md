@@ -76,14 +76,17 @@ Projet orienté DevOps mettant en œuvre des tests automatisés, l'intégration 
 
 ---
 
-## 🌱 Ce qui m'intéresse
+## 🌱 En dehors du code
 
-* Développement logiciel
-* Développement web full-stack
-* Qualité logicielle
-* Cybersécurité
-* DevOps
-* Applications mobiles
+J'aime apprendre et découvrir de nouvelles choses, que ce soit à travers la technologie ou d'autres centres d'intérêt.
+
+🎨 La peinture et la création artistique
+
+🥾 Les randonnées et les activités en pleine nature
+
+📺 Les documentaires, notamment ceux d'Arte sur l'histoire, les sciences et les enjeux de société
+
+💡 Les projets qui allient créativité, réflexion et résolution de problèmes
 
 ---
 
@@ -91,6 +94,6 @@ Projet orienté DevOps mettant en œuvre des tests automatisés, l'intégration 
 
 💼 LinkedIn : https://www.linkedin.com/in/wassila-hamed-92862b298/ 
 
-🌐 Portfolio : [[ton lien portfolio]](https://hamedwassila.alwaysdata.net/Portfolio-2025-2026/portfolio/index.html)
+🌐 Portfolio : https://hamedwassila.alwaysdata.net/Portfolio-2025-2026/portfolio/index.html
 
 📧 Email : hamedwassila2004@gmail.com
